@@ -32,6 +32,8 @@ There are two dashboards:
 
 • Python 3.x
 
+•PyCharm
+
 • Flask 
 
 • Flask_cors
@@ -40,7 +42,7 @@ There are two dashboards:
 
 • Binascii
 
-• Anaconda 
+
 
 # How to run the code 
 
